@@ -1,0 +1,38 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/solid-navy-blue-concrete-textured-wall_53876-124584.jpg?size=626&ext=jpg&ga=GA1.2.1587188681.1668489810&semt=sph");
+    height: 250vh;
+    background-size: cover;
+}
+.headfirst{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 50px;
+    text-align: center;
+
+}
+.bgcardcarousel{
+    background-color: rgb(210, 182, 255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 700px;
+    width:1300px;
+    margin-right:5px;
+    margin-left: 25px;
+    
+}
+.cardcon{
+    padding: 20px;
+}
+.headsecond{
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.paraline{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

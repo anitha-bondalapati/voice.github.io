@@ -1,0 +1,44 @@
+.chriscard{
+    background-image: url("https://www.prokerala.com/images/1200/happy-holi-whatsapp-status-video-download.jpg");
+    background-size: cover;
+    height: 45vh;
+}
+.headfirst{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    padding-top: 120px;
+}
+.paraline{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 25px;
+    text-align: center;
+}
+.chriscardbottom{
+    background-color: aqua;
+    height: 80vh;
+
+}
+.imageres{
+    padding-top: 5PX;
+    height: 80px;
+    width: 80px;
+}
+.christamascard{
+    background-color:lightgoldenrodyellow;
+    width: 150px;
+    border-radius: 15px;
+    padding: 15px;
+    height: 145px;
+    text-align: center;
+    margin: 15px;
+}
+.chrisheading{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+.chrispara{
+    font-weight: bold;
+}
